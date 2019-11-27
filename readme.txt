@@ -1,3 +1,4 @@
+K value chosen : 3
 Both .ipynb and .py files of code have been uploaded for convenience.
 
 samecatalog.py :
